@@ -16,4 +16,4 @@ of a pixel map and the use of a custom-made camera.
 A MAC ONLY application is available for examination or for perusal. This application is essentially a ruby launcher for 
 the game.
 
-Made by Akshay Subramaniam.
+MADE BY AKSHAY SUBRAMANIAM
